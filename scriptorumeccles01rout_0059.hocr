@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scriptorumeccles01rout_0059.png"; bbox 0 0 1988 3216; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 273 1222 1497 1432">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 273 1222 1497 1432">
+     <span class='ocr_line' id='line_1_1' title="bbox 548 1222 1223 1289; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 548 1222 612 1289; x_wconf 88' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 659 1223 1223 1288; x_wconf 89' lang='lat' dir='ltr'>HIPPOLYTI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 273 1372 1497 1432; baseline 0 -10"><span class='ocrx_word' id='word_1_3' title='bbox 273 1372 621 1422; x_wconf 77' lang='lat' dir='ltr'>CONTRA</span> <span class='ocrx_word' id='word_1_4' title='bbox 686 1373 1151 1423; x_wconf 84' lang='lat' dir='ltr'><strong>HAERESIM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1216 1374 1497 1432; x_wconf 84' lang='lat' dir='ltr'>NOETI,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 423 1520 1350 1686">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 423 1520 1350 1686">
+     <span class='ocr_line' id='line_1_3' title="bbox 827 1520 946 1556; baseline -0.008 -7"><span class='ocrx_word' id='word_1_6' title='bbox 827 1520 946 1556; x_wconf 70' lang='lat' dir='ltr'><strong>mvn,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 423 1635 1350 1686; baseline 0.003 -11"><span class='ocrx_word' id='word_1_7' title='bbox 423 1635 570 1684; x_wconf 85' lang='lat' dir='ltr'>PARS,</span> <span class='ocrx_word' id='word_1_8' title='bbox 602 1636 755 1686; x_wconf 80' lang='lat' dir='ltr'><strong>QUAE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 784 1637 1003 1685; x_wconf 83' lang='lat' dir='ltr'><strong>RESTAT,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1034 1637 1185 1676; x_wconf 88' lang='lat' dir='ltr'><strong>LIBRI</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1217 1638 1350 1678; x_wconf 84' lang='lat' dir='ltr'><strong>EJUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 370 1762 1401 1807">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 370 1762 1401 1807">
+     <span class='ocr_line' id='line_1_5' title="bbox 370 1762 1401 1807; baseline 0.003 -3"><span class='ocrx_word' id='word_1_12' title='bbox 370 1762 722 1805; x_wconf 84' lang='lat' dir='ltr'>ADVERSUS</span> <span class='ocrx_word' id='word_1_13' title='bbox 764 1762 993 1804; x_wconf 89' lang='lat' dir='ltr'>OMNES</span> <span class='ocrx_word' id='word_1_14' title='bbox 1038 1763 1401 1807; x_wconf 81' lang='lat' dir='ltr'>HAERESES.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

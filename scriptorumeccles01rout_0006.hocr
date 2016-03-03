@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scriptorumeccles01rout_0006.png"; bbox 0 0 2008 3230; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 520 1491 1494 1739">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 520 1491 1494 1739">
+     <span class='ocr_line' id='line_1_1' title="bbox 520 1491 1494 1557; baseline 0.002 -15"><span class='ocrx_word' id='word_1_1' title='bbox 520 1491 779 1557; x_wconf 63' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 807 1491 874 1557; x_wconf 85' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 896 1491 989 1544; x_wconf 74' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 1018 1491 1244 1544; x_wconf 70' lang='lat' dir='ltr'>internet</span> <span class='ocrx_word' id='word_1_5' title='bbox 1265 1491 1494 1544; x_wconf 66' lang='lat' dir='ltr'>Archiv&amp;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 620 1582 1391 1648; baseline 0 -15"><span class='ocrx_word' id='word_1_6' title='bbox 620 1582 665 1633; x_wconf 79' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 691 1584 841 1635; x_wconf 81' lang='lat'>2009</span> <span class='ocrx_word' id='word_1_8' title='bbox 865 1582 984 1635; x_wconf 74' lang='lat' dir='ltr'>with</span> <span class='ocrx_word' id='word_1_9' title='bbox 1009 1582 1234 1648; x_wconf 70' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 1258 1582 1391 1635; x_wconf 78' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 693 1673 1321 1739; baseline 0 -13"><span class='ocrx_word' id='word_1_11' title='bbox 693 1673 992 1739; x_wconf 76' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_12' title='bbox 1016 1673 1070 1726; x_wconf 82' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_13' title='bbox 1091 1673 1321 1726; x_wconf 78' lang='lat' dir='ltr'>Toronto</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 187 3012 1827 3079">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 187 3012 1827 3079">
+     <span class='ocr_line' id='line_1_4' title="bbox 187 3012 1827 3079; baseline 0.001 -16"><span class='ocrx_word' id='word_1_14' title='bbox 187 3012 1693 3079; x_wconf 67' lang='lat' dir='ltr'>http:llwwwarchiveorqldetai{slscriptorumecclesffl</span> <span class='ocrx_word' id='word_1_15' title='bbox 1713 3016 1827 3065; x_wconf 79' lang='lat' dir='ltr'>rout</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

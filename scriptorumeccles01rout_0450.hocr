@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scriptorumeccles01rout_0450.png"; bbox 0 0 2034 3204; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 843 3204">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 843 3204">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 843 3204; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 843 3204; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1342 330 1380 494">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1342 330 1380 494">
+     <span class='ocr_line' id='line_1_2' title="bbox 1342 330 1380 494; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 1342 330 1380 494; x_wconf 37' lang='lat' dir='ltr'>fssae‘</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1945 1710 2006 1736">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1945 1710 2006 1736">
+     <span class='ocr_line' id='line_1_3' title="bbox 1945 1710 2006 1736; baseline -0.016 0"><span class='ocrx_word' id='word_1_3' title='bbox 1945 1733 1946 1736; x_wconf 73' lang='grc'>,</span> <span class='ocrx_word' id='word_1_4' title='bbox 1970 1710 2006 1735; x_wconf 63' lang='lat' dir='ltr'>xrs</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1973 1819 2034 1856">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1973 1819 2034 1856">
+     <span class='ocr_line' id='line_1_4' title="bbox 1973 1819 2034 1856; baseline -0.016 -10"><span class='ocrx_word' id='word_1_5' title='bbox 1973 1841 1980 1856; x_wconf 51' lang='lat' dir='ltr'>f</span> <span class='ocrx_word' id='word_1_6' title='bbox 1998 1819 2034 1848; x_wconf 45' lang='grc' dir='ltr'>νὼ.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
